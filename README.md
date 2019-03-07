@@ -6,7 +6,7 @@ This library allow to get Material colors as Elm Color.
 
 ## Installation
 
-Run `elm-package install achutkiran/elm-material-color`.
+Run `elm install achutkiran/elm-material-color`.
 
 # Import material colors as the following 
 
