@@ -6,4 +6,12 @@ This library allow to get Material colors as Elm Color.
 
 ## Installation
 
-Run `elm-package install jpagex/elm-material-color`.
+Run `elm-package install achutkiran/elm-material-color`.
+
+# Import material colors as the following 
+
+> import MaterialColor
+
+# Use material Color as following
+
+> MaterialColor.red50
