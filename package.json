@@ -1,0 +1,22 @@
+{
+  "name": "elm-material-color",
+  "version": "1.0.0",
+  "description": "__Note__: This repository was forked from jpagex/elm-material-color. It was updated for elm 0.19 and uses avh4/elm-color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phollyer/elm-material-color.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phollyer/elm-material-color/issues"
+  },
+  "homepage": "https://github.com/phollyer/elm-material-color#readme",
+  "dependencies": {
+    "elm-tooling": "^1.3.0"
+  }
+}
