@@ -1,17 +1,7 @@
-__Note__: This repository was forked from jpagex/elm-material-color. It was updated for elm 0.19 and uses avh4/elm-color
+# Material Color
 
-# elm-material-color
+This repository was forked from
+[https://github.com/achutkiran/elm-material-color] which uses `Color.rgb` with
+`Int`s when they should be `Float`s.
 
-This library allow to get Material colors as Elm Color.
-
-## Installation
-
-Run `elm-package install achutkiran/elm-material-color`.
-
-# Import material colors as the following 
-
-> import MaterialColor
-
-# Use material Color as following
-
-> MaterialColor.red50
+This repository fixes that, but is currently unpublished as an Elm package.

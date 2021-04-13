@@ -1,4 +1,4 @@
-module MaterialColor exposing
+module Material.Color exposing
     ( red50, red100, red200, red300, red400, red500, red600, red700, red800, red900, redA100, redA200, redA400, redA700
     , pink50, pink100, pink200, pink300, pink400, pink500, pink600, pink700, pink800, pink900, pinkA100, pinkA200, pinkA400, pinkA700
     , purple50, purple100, purple200, purple300, purple400, purple500, purple600, purple700, purple800, purple900, purpleA100, purpleA200, purpleA400, purpleA700
@@ -20,7 +20,7 @@ module MaterialColor exposing
     , blueGrey50, blueGrey100, blueGrey200, blueGrey300, blueGrey400, blueGrey500, blueGrey600, blueGrey700, blueGrey800, blueGrey900
     )
 
-{-| This library allow to get Material colors as Elm Color.
+{-| This library provides Material colors as Elm `Color`s.
 
 
 # Colors
